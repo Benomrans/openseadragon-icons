@@ -10,3 +10,13 @@ Sample:
 CDN link :
 
 https://cdn.jsdelivr.net/gh/Benomrans/openseadragon-icons@main/images/
+
+More simple icons with only zoom in, zoom out and home buttons : 
+
+https://cdn.jsdelivr.net/gh/Benomrans/openseadragon-icons@assets/122/
+
+https://cdn.jsdelivr.net/gh/Benomrans/openseadragon-icons@assets/123/
+
+https://cdn.jsdelivr.net/gh/Benomrans/openseadragon-icons@assets/124/
+
+https://cdn.jsdelivr.net/gh/Benomrans/openseadragon-icons@assets/125/
